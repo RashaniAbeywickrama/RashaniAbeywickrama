@@ -27,7 +27,6 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Visual Studio Code
 - Git and GitHub
 
-**Programming**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
 </p>
