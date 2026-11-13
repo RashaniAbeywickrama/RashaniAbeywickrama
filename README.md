@@ -18,14 +18,11 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 ### 🛠️ Technical Skills
 
 **Networking**
-- IPv4 Addressing and Subnetting
-- VLANs and Inter-VLAN Routing
-- Switching and Routing
-- DHCP
-- OSPF
-- NAT/PAT
-- Spanning Tree Protocol (STP)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CCNA_Training-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 **Tools**
 - Cisco Packet Tracer
 - Visual Studio Code
