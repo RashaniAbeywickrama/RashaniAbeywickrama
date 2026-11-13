@@ -22,10 +22,6 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
   <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CCNA_Training-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
-**Tools**
-- Cisco Packet Tracer
-- Visual Studio Code
-- Git and GitHub
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
