@@ -27,6 +27,13 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
   <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
 </p>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashaniAbeywickrama&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashaniAbeywickrama&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
 ### 📂 Featured Projects
 
 **1. Enterprise Network Infrastructure**
