@@ -17,7 +17,6 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 
 ### 🛠️ Technical Skills
 
-**Networking**
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
@@ -29,9 +28,9 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Git and GitHub
 
 **Programming**
-- Python
-- Java
-- C#
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
+</p>
 
 ### 📂 Featured Projects
 
