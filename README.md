@@ -27,20 +27,67 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
   <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
 </p>
 
-### 📂 Featured Projects
+---
 
-**1. Enterprise Network Infrastructure**
+## 💻 Networking Projects
 
-Designed and implemented an enterprise network using Cisco Packet Tracer.
+### 01. Enterprise Network Infrastructure & Routing
 
-- VLAN segmentation
-- Inter-VLAN routing
+**Tools:** Cisco Packet Tracer
+
+**Key Implementations:**
+- IPv4 addressing and subnetting
+- VLAN configuration and network segmentation
+- Trunking and inter-VLAN routing
 - DHCP configuration
 - OSPF routing
-- NAT/PAT
-- STP
+- NAT/PAT configuration
+- Network connectivity testing and troubleshooting
 
-[View Project](https://github.com/RashaniAbeywickrama/Enterprise_Network)
+**Project Status:** Practical implementation completed.
+
+**Project Files:** [View on GitHub](https://github.com/RashaniAbeywickrama/Enterprise_Network)
+
+---
+
+### 02. Secure Enterprise Network & Network Security
+
+**Tools:** Cisco Packet Tracer
+
+**Key Implementations:**
+- Department-based VLAN segmentation
+- Inter-VLAN routing
+- Access Control Lists (ACLs)
+- Network access restrictions
+- Guest network isolation
+- NAT/PAT configuration
+- Security policy verification
+- Connectivity testing and troubleshooting
+
+**Project Status:** In Progress.
+
+**Project Files:** Documentation and Packet Tracer files will be added upon completion.
+
+---
+
+### 03. Network Monitoring, Traffic Analysis & Troubleshooting
+
+**Tools:** Wireshark
+
+**Key Areas:**
+- Network packet capture and analysis
+- TCP and UDP traffic analysis
+- DNS and DHCP traffic investigation
+- ICMP and ARP packet analysis
+- HTTP/HTTPS traffic inspection
+- Packet header examination
+- Network troubleshooting using captured traffic
+
+**Project Status:** Planned / In Progress.
+
+**Project Files:** Documentation and analysis reports will be added upon completion.
+
+---
 
 ### 📚 Currently Learning
 
