@@ -64,7 +64,7 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Security policy verification
 - Connectivity testing and troubleshooting
 
-**Project Status:** In Progress.
+**Project Status:** Practical implementation completed.
 
 **Project Files:** Documentation and Packet Tracer files will be added upon completion.
 
