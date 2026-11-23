@@ -83,7 +83,7 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Packet header examination
 - Network troubleshooting using captured traffic
 
-**Project Status:** Planned / In Progress.
+**Project Status:** In Progress.
 
 **Project Files:** Documentation and analysis reports will be added upon completion.
 
