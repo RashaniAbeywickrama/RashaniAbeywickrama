@@ -46,7 +46,7 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 
 **Project Status:** Practical implementation completed.
 
-**Project Files:** [View on GitHub]([https://github.com/RashaniAbeywickrama/Enterprise_Network](https://github.com/RashaniAbeywickrama/Enterprise-Network-Infrastructure-Routing))
+**Project Files:** [View on GitHub] (https://github.com/RashaniAbeywickrama/Enterprise-Network-Infrastructure-Routing)
 
 ---
 
