@@ -66,7 +66,7 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 
 **Project Status:** Practical implementation completed.
 
-**Project Files:** Documentation and Packet Tracer files will be added upon completion.
+**Project Files:** (https://github.com/RashaniAbeywickrama/Secure_Enterprise_Network_Security)
 
 ---
 
