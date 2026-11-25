@@ -127,9 +127,9 @@ Programming & Development
 
 ### 🤝 Connect With Me
 
-- GitHub: [RashaniAbeywickrama](https://github.com/RashaniAbeywickrama)
+- GitHub: [Rashani Abeywickrama](https://github.com/RashaniAbeywickrama)
 - LinkedIn: [Rashani Abeywickrama](https://www.linkedin.com/in/rashaniabeywickrama?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- Gmail: [Rashani Abeywickrama](rashaniabeywickrama@gmail.com)
+- Gmail: rashaniabeywickrama@gmail.com
 
 ---
 
