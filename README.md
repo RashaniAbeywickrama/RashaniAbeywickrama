@@ -15,7 +15,7 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Network Monitoring
 - Network Operations (NOC)
 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 Networking & Infrastructure
 
