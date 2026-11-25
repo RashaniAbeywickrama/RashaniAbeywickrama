@@ -70,18 +70,21 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 
 ---
 
-### 03. Network Monitoring, Traffic Analysis & Troubleshooting
+### 03. Network Performance Monitoring, Traffic Analysis & Troubleshooting
 
-**Tools:** Wireshark
+**Tools:** Wireshark | Ubuntu Server | Linux | tcpdump | iperf3 | VirtualBox | Python
 
 **Key Areas:**
-- Network packet capture and analysis
-- TCP and UDP traffic analysis
-- DNS and DHCP traffic investigation
-- ICMP and ARP packet analysis
-- HTTP/HTTPS traffic inspection
-- Packet header examination
-- Network troubleshooting using captured traffic
+- Network Performance Monitoring
+- Network Traffic Analysis
+- TCP/IP Protocol Analysis
+- Packet Capture & Inspection
+- Network Troubleshooting
+- Throughput & Latency Measurement
+- Packet Loss & Retransmission Analysis
+- TCP Congestion Control (CUBIC & BBR)
+- Linux Network Administration
+- Performance Testing & Reporting
 
 **Project Status:** In Progress.
 
