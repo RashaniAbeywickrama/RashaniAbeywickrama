@@ -15,13 +15,33 @@ I'm currently developing my practical networking skills through Cisco Packet Tra
 - Network Monitoring
 - Network Operations (NOC)
 
-### 🛠️ Technical Skills
+🛠️ Technical Skills
+
+Networking & Infrastructure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer_Networking-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CCNA_Training-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Routing_&_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLAN_&_Inter--VLAN_Routing-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSPF-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TCP/IP-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IPv4_&_Subnetting-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network_Security-8E44AD?style=for-the-badge"/>
+</p>
+
+Network Monitoring & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CCNA_Training-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+Programming & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode&theme=light"/>
